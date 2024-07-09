@@ -1,0 +1,1 @@
+Um programa feito em Python de um jogo em que o usuario informa um intervalo entre 0 e o numero desejado e o programa gera um numero aleatorio e o usuario tem que adivinhar. O programa auxilia se o numero em que o usuario tentar esta perto ou longe do numero correto, e no final, o programa ira informar o numero de tentativas do usuario.
